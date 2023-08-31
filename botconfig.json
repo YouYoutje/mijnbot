@@ -1,0 +1,28 @@
+{
+    "bot": {
+        "token":  "OTc2NTAxMTU0MjkwNzQ1Mzk0.Gr-16M.Fbuttaqpuc0uqZQBtLPI6Gsrbsv2LyS4PvTYXc",
+        "databaseURL": "",
+        "prefix": "!",
+        "footer": "© WoenselRP",
+        "servernaam": "WoenselRP",
+        "ticketName": "ticket-"
+    },
+
+    "channels": {
+        "logs": "973266750370103340"
+    },
+
+    "colors": {
+        "error": "#ff0000",
+        "succes": "#00ff00",
+        "normal": "#ffa500"
+    },
+
+    "rollen": {
+        "supportRole": "793258052643717131"
+    },
+
+    "categorie": {
+        "support": "Service & Hulp"
+    }
+}
